@@ -1,1 +1,3 @@
-# churn-prediction-with-ML-pt.2
+# Introduction
+
+This project is a continuation of my previous work titled [**“Churn Prediction with ML – Pt. 1”**](https://github.com/inesmora29/churn-prediction-with-ML-pt1), where we performed exploratory data analysis and applied several basic machine learning models such as Random Forest, SVM, and Decision Tree. In this follow-up project, we advance our approach by implementing a more powerful and sophisticated model — **XGBoost**. Our goals here are twofold: first, to train the XGBoost model and optimize its parameters for improved predictive performance, and second, to apply **SHAP** (SHapley Additive exPlanations) for model explainability. By doing so, we aim to uncover which features most significantly influence the model’s churn predictions, providing deeper insights into customer behavior. The data is retrieved from https://www.kaggle.com/datasets/mathchi/churn-for-bank-customers/data
